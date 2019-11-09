@@ -12,8 +12,6 @@ Please, if you use this code, cite the following [preprint](https://arxiv.org/ab
 }
 ```
 
-![solar100](data/solar_t100.png)
-![solar500](data/solar_t500.png)
 ![solar1000](data/solar_t1000.png)
 
 
