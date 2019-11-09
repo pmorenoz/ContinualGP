@@ -11,11 +11,12 @@ Please, if you use this code, cite the following [preprint](https://arxiv.org/ab
   year = {2019}
 }
 ```
-Solar sunspots data.
+*Solar sunspots data.*
+
 ![solar1000](data/solar_t1000.png)
 
-**Experiments**
-In the /experiments/ folder you may find the following scripts for simulations.
+**Results:** In the /experiments/ folder you may find the following scripts for simulations.
+
 ```
 single_output.py // Continual GP regression
 multi_output.py  // Continual multi-output GP regression
@@ -23,7 +24,7 @@ banana.py        // Continual GP classification
 solar.py         // Long-term continual GP regression (figure above).
 ```
 
-The Python syntaxes of likelihoods and the structure of our code is based on to the one used in the [HetMOGP repository](https://github.com/pmorenoz/HetMOGP).
+The Python syntaxes of likelihood distributions and the structure of our code is based on the [HetMOGP repository](https://github.com/pmorenoz/HetMOGP).
 
 ## Contributors
 
