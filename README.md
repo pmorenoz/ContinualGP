@@ -24,7 +24,7 @@ banana.py        // Continual GP classification
 solar.py         // Long-term continual GP regression (figure above).
 ```
 
-The Python syntaxes of likelihood distributions and the structure of our code is based on the [HetMOGP repository](https://github.com/pmorenoz/HetMOGP).
+The Python syntaxes of likelihood distributions and the structure of our code is based on the [HetMOGP](https://github.com/pmorenoz/HetMOGP) repository.
 
 ## Contributors
 
