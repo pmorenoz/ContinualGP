@@ -14,6 +14,13 @@ Please, if you use this code, cite the following [preprint](https://arxiv.org/ab
 
 ![solar1000](data/solar_t1000.png)
 
+**Experiments**
+```
+single_output.py > Continual GP regression
+multi_output.py > Continual multi-output GP regression
+banana.py > Continual GP classification
+solar.py > Long-term continual GP regression (figure above).
+```
 
 ## Contributors
 
