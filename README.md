@@ -11,6 +11,9 @@ Please, if you use this code, cite the following [preprint](https://arxiv.org/ab
   year = {2019}
 }
 ```
+![solar100](experiments/solar_t100.png)
+![solar500](experiments/solar_t500.png)
+![solar1000](experiments/solar_t1000.png)
 
 ## Contributors
 
