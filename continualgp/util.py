@@ -12,7 +12,7 @@ import numpy as np
 import climin
 from functools import partial
 import matplotlib.pyplot as plt
-from matplotlib2tikz import save as tikz_save
+from tikzplotlib import save as tikz_save
 
 
 def  get_batch_scales(X_all, X):
