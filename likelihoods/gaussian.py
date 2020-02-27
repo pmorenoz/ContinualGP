@@ -5,7 +5,7 @@ import numpy as np
 from GPy.likelihoods import link_functions
 from GPy.likelihoods import Likelihood
 from scipy.stats import norm
-from scipy.misc import logsumexp
+from scipy.special import logsumexp
 
 
 class Gaussian(Likelihood):
