@@ -1,4 +1,4 @@
-scipy==1.2.1
+scipy==1.10.0
 numpy==1.15.0
 matplotlib==2.2.2
 matplotlib2tikz==0.6.15
